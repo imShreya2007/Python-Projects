@@ -9,5 +9,7 @@ venv/
 __pycache__/
 *.pyc
 
-# Ignore CSV data files
+# Ignore CSV and JSON data files
 *.csv 
+*.json
+
