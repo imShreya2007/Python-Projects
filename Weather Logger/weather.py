@@ -3,6 +3,7 @@ import csv
 from datetime import datetime
 import requests
 from dotenv import load_dotenv
+
 load_dotenv()
 
 print("Weather Logger (API + CSV)...")

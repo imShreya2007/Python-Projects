@@ -13,3 +13,7 @@ __pycache__/
 *.csv 
 *.json
 
+# Ignore Images
+*.png
+*.jpg
+*.jpeg
